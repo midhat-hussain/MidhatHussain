@@ -1,15 +1,15 @@
 
-# 👋 Hi, I'm Midhat Hussain
+# Midhat Hussain
 
-🎯 Junior Data Analyst passionate about transforming data into insights using Python, SQL, R and visualization tools.
+🎯 Experienced Data Analyst passionate about transforming data into insights using Python, SQL, R and visualization tools.
 
 ---
 
 ## 🔍 About Me
-- 📊 Interested in **Data Analysis, Business Intelligence & Visualization**
-- 🐍 Skilled in **Python (Pandas, NumPy, Matplotlib, Seaborn)**
-- 🧮 Experienced with **SQL & BigQuery**
-- 📈 Data Visualization using **Tableau & Plotly**
+- 📊 Areas of Expertise: **Data Analysis, Business Intelligence & Visualization**
+- 🐍 Programing Skills: **Python (Pandas, NumPy, Matplotlib, Seaborn)**
+- 🧮 Query Languages: **SQL & BigQuery**
+- 📈 Data Visualization Tools: **Tableau & Plotly**
 - 📚 Currently building end-to-end data projects
 
 ---
